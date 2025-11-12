@@ -3,7 +3,6 @@
 💡 An **Indie Developer** & **Full-Stack Engineer**.  
 🚀 I love turning ideas into functional systems.
 
----
 
 ## 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -15,7 +14,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=openai&logoColor=white)
 
----
 
 ## 🏗️ Featured Projects
 | Project | Description | Link |
@@ -23,12 +21,9 @@
 | 🌐 SerpShot | A data-driven tool for SEO analytics and SERP tracking | [serpshot.com](https://www.serpshot.com/) |
 | 💌 Temailer | Temporary email service for secure, disposable inboxes | [temailer.com](https://www.temailer.com/zh/login) |
 
----
-
 ## 📫 Connect
-- ✉️ Email: downdanwn@example.com  
+- ✉️ Email: downdanwn22@gmail.com  
 
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+Downdanwn;Indie+Developer;Full-Stack+Engineer;E-commerce+%26+Crypto+Builder" />
