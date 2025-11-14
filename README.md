@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Downdanwn
+# 👋 Hey, I'm Dylan
 
 💡 An **Indie Developer** & **Full-Stack Engineer**.  
 🚀 I love turning ideas into functional systems.
@@ -26,5 +26,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+Downdanwn;Indie+Developer;Full-Stack+Engineer;E-commerce+%26+Crypto+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+Dylan;Indie+Developer;Full-Stack+Engineer;E-commerce+%26+Crypto+Builder" />
 </p>
