@@ -19,7 +19,7 @@
 | Project | Description | Link |
 |:--|:--|:--|
 | 🌐 SerpShot | A data-driven tool for SEO analytics and SERP tracking | [serpshot.com](https://www.serpshot.com/) |
-| 💌 Temailer | Temporary email service for secure, disposable inboxes | [temailer.com](https://www.temailer.com/zh/login) |
+| 💌 Temailer | Temporary email service for secure, disposable inboxes | [temailer.com](https://www.temailer.com/) |
 
 ## 📫 Connect
 - ✉️ Email: downdanwn22@gmail.com  
